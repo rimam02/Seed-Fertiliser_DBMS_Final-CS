@@ -1,0 +1,19 @@
+DBMS FINAL EVALUATION — SUBMISSION ORDER
+
+1. Create a PostgreSQL database.
+2. Run schema.sql.
+3. Run seed.sql.
+4. Run queries.sql.
+5. Capture screenshots of:
+   - table creation / successful execution
+   - SELECT * FROM product_stock;
+   - Q8 (>80% quota)
+   - Q9 (below average stock)
+   - Q5 (farmers with no collection)
+   - Q10 (latest issue)
+   - Q11 (every registered farmer)
+   - Q16 and Q17 (join rewrites)
+6. Keep README.md, subquery_vs_join.md, query_outputs.md and ER_Diagram.png in the submission folder.
+7. If your teacher wants the actual output embedded in queries.sql, paste the PostgreSQL result tables under the corresponding query comments.
+
+Important: the supplied case study explicitly asks for realistic data volume, all required subquery types, at least two join rewrites, and the listed deliverables.
